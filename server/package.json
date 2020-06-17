@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Next Level Week - Ecoleta - Thiago Marinho at @Rocketseat",
+  "description": "Next Level Week - Ecoleta - renato cantarino",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --transpileOnly --ignore-watch node_modules src/server.ts",
