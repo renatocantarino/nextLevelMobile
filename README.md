@@ -4,6 +4,8 @@ Server:
 - NodeJs
 - Knex
 - Sqlite
+- Multer
+
 
 
 Mobile:
